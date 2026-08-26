@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="96" fill="#0b5d3b"/><g transform="rotate(-8 256 330)"><rect x="90" y="285" width="300" height="110" rx="18" fill="#4aa65b" stroke="#e2f7e5" stroke-width="6"/><rect x="108" y="265" width="300" height="110" rx="18" fill="#6dbc72" stroke="#e2f7e5" stroke-width="6"/><circle cx="258" cy="320" r="34" fill="none" stroke="#0b5d3b" stroke-width="8"/><text x="258" y="335" text-anchor="middle" font-size="48" font-family="Arial" font-weight="700" fill="#0b5d3b">$</text></g><text x="205" y="230" text-anchor="middle" font-size="210" font-family="Arial" font-weight="700" fill="white">$</text><circle cx="395" cy="366" r="38" fill="#e6a419" stroke="#ffd75d" stroke-width="6"/><circle cx="418" cy="337" r="38" fill="#e6a419" stroke="#ffd75d" stroke-width="6"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="LBP Change Calculator">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#147447"/><stop offset="1" stop-color="#06422c"/></linearGradient></defs>
+  <rect width="512" height="512" rx="108" fill="url(#g)"/>
+  <rect x="102" y="278" width="282" height="112" rx="18" fill="#4eae61" stroke="#dff5e3" stroke-width="7" transform="rotate(-8 243 334)"/>
+  <rect x="118" y="250" width="282" height="112" rx="18" fill="#79c879" stroke="#e8f8e9" stroke-width="7" transform="rotate(-8 259 306)"/>
+  <circle cx="258" cy="306" r="34" fill="none" stroke="#0b5d3b" stroke-width="9"/>
+  <text x="258" y="323" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#0b5d3b">$</text>
+  <text x="192" y="232" text-anchor="middle" font-family="Arial,sans-serif" font-size="208" font-weight="700" fill="#fff">$</text>
+  <circle cx="392" cy="373" r="39" fill="#e7a41d" stroke="#ffd868" stroke-width="7"/>
+  <circle cx="420" cy="337" r="39" fill="#e7a41d" stroke="#ffd868" stroke-width="7"/>
+</svg>
